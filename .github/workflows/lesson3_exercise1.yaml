@@ -5,6 +5,6 @@ on:
 
 jobs:
     reuse-workflow:
-      uses: DaliCariad/post-your-work-project/.github/workflows/lesson3_exercice1.yaml@main
+      uses: DaliCariad/post-your-work-project/.github/workflows/lesson3_exercise1.yaml@main
       with:
           actor: ${{ github.actor }}
